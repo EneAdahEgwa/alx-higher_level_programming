@@ -6,4 +6,4 @@ def remove_char_at(str, n):
         if i != n:
               new += str[i]
               return new
-            i += 1
+        i += 1
