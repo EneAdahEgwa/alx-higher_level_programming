@@ -6,4 +6,6 @@ for c in str:
     if i != n:
        new += str[i]
        i += 1
+
+
 return new
