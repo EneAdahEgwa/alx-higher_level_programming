@@ -66,4 +66,4 @@ class Base:
                 new_l = cls.from_json_string(f.read())
             for val in new_l:
                 rtn_empty.append(cls.create(**val))
-            return (rtn_empty
+            return (rtn_empty)
